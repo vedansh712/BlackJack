@@ -1,0 +1,30 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+
+  /* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fpoker-card-game&psig=AOvVaw0vq-iQGP4N0xnTZEre7xq2&ust=1645837689678000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCepLHVmfYCFQAAAAAdAAAAABAD */
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+button {
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  margin: 5px;
+}
+
+#text-el {
+  font-style: italic;
+}
